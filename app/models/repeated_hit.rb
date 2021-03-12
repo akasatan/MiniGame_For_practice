@@ -1,0 +1,2 @@
+class RepeatedHit < ApplicationRecord
+end

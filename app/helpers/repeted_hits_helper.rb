@@ -1,0 +1,2 @@
+module RepetedHitsHelper
+end
